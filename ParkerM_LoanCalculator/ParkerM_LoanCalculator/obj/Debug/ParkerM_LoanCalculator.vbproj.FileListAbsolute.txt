@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\PROG1700\projektred\ParkerM_LoanCalculator\ParkerM_LoanCalculator\bin\Debug\ParkerM_LoanCalculator.exe.config
+C:\Users\Owner\Desktop\PROG1700\projektred\ParkerM_LoanCalculator\ParkerM_LoanCalculator\bin\Debug\ParkerM_LoanCalculator.exe
+C:\Users\Owner\Desktop\PROG1700\projektred\ParkerM_LoanCalculator\ParkerM_LoanCalculator\bin\Debug\ParkerM_LoanCalculator.pdb
+C:\Users\Owner\Desktop\PROG1700\projektred\ParkerM_LoanCalculator\ParkerM_LoanCalculator\bin\Debug\ParkerM_LoanCalculator.xml
+C:\Users\Owner\Desktop\PROG1700\projektred\ParkerM_LoanCalculator\ParkerM_LoanCalculator\obj\Debug\ParkerM_LoanCalculator.vbprojAssemblyReference.cache
+C:\Users\Owner\Desktop\PROG1700\projektred\ParkerM_LoanCalculator\ParkerM_LoanCalculator\obj\Debug\ParkerM_LoanCalculator.Resources.resources
+C:\Users\Owner\Desktop\PROG1700\projektred\ParkerM_LoanCalculator\ParkerM_LoanCalculator\obj\Debug\ParkerM_LoanCalculator.vbproj.GenerateResource.cache
+C:\Users\Owner\Desktop\PROG1700\projektred\ParkerM_LoanCalculator\ParkerM_LoanCalculator\obj\Debug\ParkerM_LoanCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\PROG1700\projektred\ParkerM_LoanCalculator\ParkerM_LoanCalculator\obj\Debug\ParkerM_LoanCalculator.exe
+C:\Users\Owner\Desktop\PROG1700\projektred\ParkerM_LoanCalculator\ParkerM_LoanCalculator\obj\Debug\ParkerM_LoanCalculator.xml
+C:\Users\Owner\Desktop\PROG1700\projektred\ParkerM_LoanCalculator\ParkerM_LoanCalculator\obj\Debug\ParkerM_LoanCalculator.pdb
